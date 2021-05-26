@@ -1,8 +1,8 @@
 # QBUS x OSM - COKE DRIVE with TIMER
 Normal Coke Script with an ADDED TIMER and different PROP. I didn't do many changes to the code. TIMER was a main requirement of many people in my circle, so I added that. Also cleaned the Config a bit to remove useless variables.
 
-###[DISCORD](https://discord.gg/jrNxkpVaJU)
-###[PREVIEW of TIMER](https://youtu.be/XfXyUD_gp6Q)
+### [DISCORD](https://discord.gg/jrNxkpVaJU)
+### [PREVIEW of TIMER](https://youtu.be/XfXyUD_gp6Q)
 
 ## CHANGES
 - Add a Timer on Bottom of the Screen, that can be customised. 
